@@ -100,7 +100,7 @@ fs.createReadStream('./words.csv')
   });
 
 // Start the server
-app.listen(5000, () => {
+app.listen(3000, () => {
   console.log('Server running at http://localhost:5000');
 });
 

@@ -33,4 +33,4 @@ export const categoriesColors = {
     "Personajes célebres" : "#41B8D5A0"
 }
 
-export const API ="http://127.0.0.1:5000/"
+export const API ="http://127.0.0.1:3000/"
